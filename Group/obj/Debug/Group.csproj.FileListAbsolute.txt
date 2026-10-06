@@ -1,0 +1,1126 @@
+D:\Samitha estaurant\Group\Group\bin\Debug\Group.exe.config
+D:\Samitha estaurant\Group\Group\bin\Debug\Group.exe
+D:\Samitha estaurant\Group\Group\bin\Debug\Group.pdb
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.Form1.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.exe
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.pdb
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.rest.resources
+F:\Samitha estaurant\Group\Group\bin\Debug\Group.exe.config
+F:\Samitha estaurant\Group\Group\bin\Debug\Group.exe
+F:\Samitha estaurant\Group\Group\bin\Debug\Group.pdb
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.Form1.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.rest.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.exe
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.pdb
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.BAR.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.family.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.takeaway.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.st.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.items.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.stlogin.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.BAR.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.family.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.items.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.st.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.stlogin.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.takeaway.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.stb.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.stblogin.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.barst.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.dcsl.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.barst.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.dcsl.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.stb.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.stblogin.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.voiditems.resources
+J:\Samitha estaurant\Group\Group\bin\Debug\Group.exe.config
+J:\Samitha estaurant\Group\Group\bin\Debug\Group.exe
+J:\Samitha estaurant\Group\Group\bin\Debug\Group.pdb
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.BAR.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.barst.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.dcsl.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.family.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.Form1.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.idl.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.items.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.rest.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.st.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.stb.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.stblogin.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.stlogin.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.takeaway.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.voiditems.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.exe
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.pdb
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.beer.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.cognac.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.foreign.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.rockland.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.vodka.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.wine.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.online.resources
+J:\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Memory.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\ZstdSharp.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+J:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Memory.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.SuggestedBindingRedirects.cache
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.exe.config
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Twilio.dll
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+J:\Samitha estaurant\Group\Group\bin\Debug\Twilio.xml
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.email.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.sms.resources
+J:\Samitha estaurant\Group\Group\obj\Debug\Group.bites.resources
+F:\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Memory.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\Twilio.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\ZstdSharp.dll
+F:\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+F:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Memory.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+F:\Samitha estaurant\Group\Group\bin\Debug\Twilio.xml
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.SuggestedBindingRedirects.cache
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.exe.config
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.bakery.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.beef.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.beer.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.bites.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.CANCELLBILL.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.card.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.ccamount.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.chicken.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.cognac.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.createsteward.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.cuttlefish.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.dessert.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.email.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.familytable.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.familytable2.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.foreign.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.freshjuice.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.idl.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.kottu.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.noodles.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.online.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.paybill.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.pork.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.prawns.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.rice.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.rockland.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.setmenu.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.signoff.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.sms.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.softdrinks.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.soup.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway2.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.totalsale.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.vegetable.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.vodka.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.voiditems.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.wine.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.famlog.resources
+F:\Samitha estaurant\Group\Group\obj\Debug\Group.famst.resources
+D:\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Memory.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\Twilio.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\ZstdSharp.dll
+D:\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+D:\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Memory.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+D:\Samitha estaurant\Group\Group\bin\Debug\Twilio.xml
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.SuggestedBindingRedirects.cache
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.exe.config
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.bakery.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.beef.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.beer.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.bites.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.CANCELLBILL.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.card.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.ccamount.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.chicken.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.cognac.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.createsteward.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.cuttlefish.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.dessert.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.email.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.familytable.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.familytable2.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.famlog.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.famst.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.foreign.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.freshjuice.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.idl.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.kottu.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.noodles.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.online.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.paybill.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.pork.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.prawns.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.rice.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.rockland.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.setmenu.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.signoff.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.sms.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.softdrinks.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.soup.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway2.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.totalsale.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.vegetable.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.vodka.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.wine.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.attendance.resources
+D:\Samitha estaurant\Group\Group\obj\Debug\Group.monthattendance.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Group.exe.config
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Group.exe
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Group.pdb
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Twilio.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\bin\Debug\Twilio.xml
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.exe.config
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.attendance.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.bakery.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.BAR.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.barst.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.beef.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.beer.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.bites.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.CANCELLBILL.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.card.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.ccamount.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.chicken.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.cognac.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.createsteward.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.cuttlefish.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.dcsl.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.dessert.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.email.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.family.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.familytable.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.familytable2.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.famlog.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.famst.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.foreign.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.Form1.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.freshjuice.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.idl.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.items.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.kottu.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.monthattendance.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.noodles.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.online.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.paybill.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.pork.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.prawns.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.rest.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.rice.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.rockland.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.setmenu.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.signoff.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.sms.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.softdrinks.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.soup.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway2.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.st.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.stb.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.stblogin.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.stlogin.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.takeaway.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.totalsale.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.vegetable.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.vodka.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.voiditems.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.wine.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.exe
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.pdb
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.signon.resources
+C:\Users\User\Desktop\Samitha estaurant\Group\Group\obj\Debug\Group.cancellog.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Group.exe.config
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Group.exe
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Group.pdb
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Twilio.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\bin\Debug\Twilio.xml
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.exe.config
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.attendance.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.bakery.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.BAR.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.barst.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.beef.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.beer.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.bites.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.CANCELLBILL.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.cancellog.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.card.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.ccamount.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.chicken.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.cognac.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.createsteward.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.cuttlefish.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.dcsl.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.dessert.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.email.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.family.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.familytable.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.familytable2.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.famlog.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.famst.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.foreign.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.Form1.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.freshjuice.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.idl.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.items.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.kottu.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.monthattendance.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.noodles.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.online.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.paybill.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.pork.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.prawns.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.rest.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.rice.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.rockland.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.setmenu.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.signoff.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.signon.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.sms.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.softdrinks.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.soup.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.sptakeaway2.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.st.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.stb.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.stblogin.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.stlogin.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.takeaway.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.totalsale.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.vegetable.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.vodka.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.voiditems.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.wine.resources
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.exe
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.pdb
+C:\Users\User\Desktop\Samitha estaurant\Samitha estaurant\Group\Group\obj\Debug\Group.voiditemsform.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe.config
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.pdb
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Twilio.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\ZstdSharp.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Twilio.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe.config
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.attendance.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.bakery.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.BAR.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.barst.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.beef.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.beer.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.bites.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.CANCELLBILL.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cancellog.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.card.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.ccamount.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.chicken.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cognac.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.createsteward.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cuttlefish.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.dcsl.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.dessert.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.email.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.family.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.familytable.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.familytable2.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.famlog.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.famst.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.foreign.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.Form1.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.freshjuice.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.idl.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.items.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.kottu.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.monthattendance.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.noodles.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.online.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.paybill.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.pork.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.prawns.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rest.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rice.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rockland.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.setmenu.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.signoff.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.signon.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sms.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.softdrinks.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.soup.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sptakeaway.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sptakeaway2.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.st.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stb.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stblogin.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stlogin.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.takeaway.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.totalsale.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.vegetable.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.vodka.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.voiditems.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.voiditemsform.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.wine.resources
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.pdb
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\ColorTranslations.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\jose-jwt.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\StandardSocketsHttpHandler.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Formats.Asn1.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Testably.Abstractions.FileSystem.Interface.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Vonage.dll
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.pdb
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Formats.Asn1.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Testably.Abstractions.FileSystem.Interface.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Vonage.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe.manifest
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.application
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.TrustInfo.xml
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe.manifest
+C:\Users\User\Desktop\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.application
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe.config
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe.manifest
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.application
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.pdb
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\ColorTranslations.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\jose-jwt.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\MySql.Data.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\StandardSocketsHttpHandler.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Buffers.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Formats.Asn1.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Memory.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Json.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Testably.Abstractions.FileSystem.Interface.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Twilio.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Vonage.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\ZstdSharp.dll
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.pdb
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\MySql.Data.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Buffers.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Formats.Asn1.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Memory.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Json.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Testably.Abstractions.FileSystem.Interface.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Twilio.xml
+D:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Vonage.xml
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.attendance.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.bakery.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.BAR.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.barst.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.beef.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.beer.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.bites.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.CANCELLBILL.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cancellog.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.card.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.ccamount.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.chicken.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cognac.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.createsteward.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cuttlefish.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.dcsl.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.dessert.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.email.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.family.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.familytable.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.familytable2.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.famlog.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.famst.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.foreign.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.Form1.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.freshjuice.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.idl.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.items.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.kottu.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.monthattendance.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.noodles.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.online.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.paybill.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.pork.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.prawns.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rest.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rice.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rockland.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.setmenu.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.signoff.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.signon.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sms.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.softdrinks.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.soup.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sptakeaway.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sptakeaway2.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.st.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stb.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stblogin.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stlogin.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.takeaway.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.totalsale.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.vegetable.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.vodka.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.voiditems.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.voiditemsform.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.wine.resources
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.TrustInfo.xml
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe.manifest
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.application
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.pdb
+D:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe.config
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe.config
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe.manifest
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.application
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.exe
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Group.pdb
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\ColorTranslations.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\jose-jwt.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\MySql.Data.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Newtonsoft.Json.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\StandardSocketsHttpHandler.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Buffers.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Formats.Asn1.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IO.Pipelines.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Memory.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Numerics.Vectors.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Json.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.ValueTuple.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Testably.Abstractions.FileSystem.Interface.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Twilio.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Vonage.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\ZstdSharp.dll
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.pdb
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Enums.NET.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.pdb
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Google.Protobuf.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\K4os.Hash.xxHash.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.Memory.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\MySql.Data.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Newtonsoft.Json.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Buffers.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Formats.Asn1.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.IO.Pipelines.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Memory.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Numerics.Vectors.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Encodings.Web.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Text.Json.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\System.ValueTuple.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Testably.Abstractions.FileSystem.Interface.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Twilio.xml
+E:\Restaurant Management System\Restaurant\Group\Group\bin\Debug\Vonage.xml
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.AssemblyReference.cache
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe.config
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.attendance.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.bakery.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.BAR.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.barst.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.beef.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.beer.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.bites.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.CANCELLBILL.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cancellog.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.card.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.ccamount.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.chicken.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cognac.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.createsteward.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.cuttlefish.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.dcsl.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.dessert.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.email.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.family.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.familytable.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.familytable2.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.famlog.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.famst.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.foreign.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.Form1.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.freshjuice.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.idl.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.items.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.kottu.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.monthattendance.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.noodles.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.online.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.paybill.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.pork.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.prawns.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.Properties.Resources.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rest.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rice.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.rockland.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.setmenu.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.signoff.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.signon.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sms.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.softdrinks.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.soup.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sptakeaway.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.sptakeaway2.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.st.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stb.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stblogin.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.stlogin.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.takeaway.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.totalsale.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.vegetable.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.vodka.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.voiditems.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.voiditemsform.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.whatsapp.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.wine.resources
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.GenerateResource.cache
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.CoreCompileInputs.cache
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.TrustInfo.xml
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe.manifest
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.application
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.csproj.Up2Date
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.exe
+E:\Restaurant Management System\Restaurant\Group\Group\obj\Debug\Group.pdb
